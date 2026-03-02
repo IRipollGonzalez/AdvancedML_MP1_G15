@@ -1,0 +1,11 @@
+{
+  "test_elbo": -87.09687553710937,
+  "seed": 2,
+  "latent_dim": 10,
+  "prior": "mog",
+  "mog_components": 10,
+  "epochs": 10,
+  "batch_size": 128,
+  "lr": 0.001,
+  "elbo_samples": 1
+}

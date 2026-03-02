@@ -1,0 +1,11 @@
+{
+  "seed": 0,
+  "beta": 1.0,
+  "latent_dim": 10,
+  "fixed_sigma": 0.1,
+  "epochs": 10,
+  "batch_size": 128,
+  "lr": 0.001,
+  "elbo_samples": 1,
+  "avg_test_loss": 1513.1024958984376
+}

@@ -1,0 +1,19 @@
+{
+  "cmd": "partB_latent_ddpm_train",
+  "beta": 1.0,
+  "latent_dim": 10,
+  "fixed_sigma": 0.1,
+  "T": 1000,
+  "epochs": 10,
+  "batch_size": 128,
+  "latent_points": 100000,
+  "latent_batch_size": 512,
+  "hidden": 256,
+  "lr": 0.001,
+  "fid_real": 10000,
+  "fid_gen": 10000,
+  "mnist_classifier": "/Users/ignacioripollgonzalez/Library/Mobile Documents/com~apple~CloudDocs/DTU/2. MSc BUSINESS ANALYTICS/Q4/2. 02460 Advanced Machine Learning/Lectures/L4 - Mini project 1/mnist_classifier.pth",
+  "seed": 0,
+  "device": "mps",
+  "outdir": "results"
+}
